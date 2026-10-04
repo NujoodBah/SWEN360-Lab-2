@@ -1,0 +1,33 @@
+body {
+  background-color: #0b1026;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  color: #5ec8ff;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  display: inline-block;
+  text-align: left;
+}
+
+li {
+  font-size: 22px;
+  margin: 15px 0;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.5);
+  margin-right: 12px;
+}
+
+#launch-message {
+  color: #5cff8f;
+  font-size: 36px;
+}
